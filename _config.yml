@@ -2,8 +2,8 @@
 title: JmDNS
 email: support@jmdns.org
 description: "JmDNS is a Java implementation of multi-cast DNS and can be used for service registration and discovery in local area networks. JmDNS is fully compatible with Apple's Bonjour."
-baseurl: "jmdns.org"
-url: "http://www.jmdns.org"
+baseurl: "http://iheart2code.github.io/jmdns"
+url: "http://www.jmdns.org/"
 
 github_username: openhab/jmdns
 
