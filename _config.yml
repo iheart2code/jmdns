@@ -1,9 +1,11 @@
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: JmDNS
+email: support@jmdns.org
+description: "JmDNS is a Java implementation of multi-cast DNS and can be used for service registration and discovery in local area networks. JmDNS is fully compatible with Apple's Bonjour."
 baseurl: ""
-url: "http://yourdomain.com"
+url: "http://www.jmdns.org"
+
+github_username: openhab/jmdns
 
 # Build settings
 markdown: kramdown
